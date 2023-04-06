@@ -1,2 +1,2 @@
 # Shoethentic
-##Know what you wear
+#Know what you wear
