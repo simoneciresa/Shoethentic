@@ -27,7 +27,7 @@ author: The Shoethentic team
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "IMG_1032.JPEG"
+avatar: "/IMG_1032.JPEG"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
